@@ -38,7 +38,7 @@ We have an exciting lineup of speakers. Stay tuned for more details!
 {% include speakers.liquid center=true %}
 
 ### Questions
-If you have any questions, please do not hesitate to contact us at <a href="mailto:realm-workshop@gmail.com">realm-workshop@gmail.com</a>.
+If you have any questions, please do not hesitate to contact us at <a href="mailto:realm-workshop@googlegroups.com">realm-workshop@googlegroups.com</a>.
 
 ### Organizers
 {% include organizers.liquid center=true %}
