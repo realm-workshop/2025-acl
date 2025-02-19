@@ -25,11 +25,14 @@ We invite the following types of submissions:
 - **Long papers** must be original unpublished work, with concrete evaluation and analysis. They can be up to 8 (eight) pages, plus unlimited pages of references and an appendix.
 - **Short papers** should be original unpublished work, including a small focused contribution, a negative result, an opinion piece, or an interesting application. They can be of up to 4 (four) pages of content with unlimited pages of references and appendix.
 
-All submissions should be **anonymous** and must follow **[ACL formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html)**. The **[ACL 2025 templates](https://github.com/acl-org/acl-style-files)** must be used; these are provided in LaTeX and also Microsoft Word format. 
+All submissions should be **anonymous** and must follow **[ACL formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html)**. The **[ACL 2025 templates](https://github.com/acl-org/acl-style-files)** must be used; these are provided in LaTeX and also Microsoft Word format.
 
 Submissions will only be accepted in PDF format.
 The peer review will be double-blind.
-<!-- The workshop will not accept work that is under review or has already been published in or accepted for publication in any other peer-reviewed venue. However, papers published in arXiv are allowed to be submitted to the workshop. We consider both archival and non-archival submissions. But only accepted archival/regular papers will be included in the proceedings. -->
+We consider both **archival** and **non-archival** submissions, however, note that only accepted archival papers will be included in the proceedings.
+The workshop accepts work that is under review or has already been published in or accepted for publication in any other peer-reviewed venue. These papers can be submitted to the workshop as **non-archival** submissions.
+Papers published on arXiv are also allowed to be submitted to the workshop (both as archival and non-archival).
+
 
 All submissions have to be made through the following **[Openreview link](https://openreview.net/group?id=aclweb.org/ACL/2025/Workshop/REALM)**.
 
@@ -39,7 +42,7 @@ Authors should be aware of OpenReview's moderation policy for newly created prof
 
 #### Camera Ready Version
 Final versions of accepted papers will be given one additional page of content (up to 9 pages for long papers, upto 5 pages for short papers) to address reviewers’ comments.
-
+Authors will have the chance to change the submission type from non-archival to archival and vice versa until the camera-ready deadline.
 
 ### Important Dates
 
