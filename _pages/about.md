@@ -34,7 +34,8 @@ The REALM workshop will take place at the 63rd Annual Meeting of the Association
 The conference will take place from **July 27th to August 1st, 2025**.
 Workshops will be held July 31st and August 1st.
 For more details about ACL 2025, check their [website](https://2025.aclweb.org/).
-Exact date and room information of the REALM workshop will be announced closer to the event date.
+
+> The REALM Workshop will be on **July 31st** at the [Austria Center](https://www.acv.at/en/) in Vienna in room **1.61-62**. Please see the [full schedule](https://realm-workshop.github.io/schedule/) for all details.
 
 ### Important Dates
 
