@@ -41,8 +41,8 @@ For more details about ACL 2025, check their [website](https://2025.aclweb.org/)
 
 {% include dates.liquid %}
 
-### Invited Speakers
-We have an exciting lineup of speakers. Stay tuned for more details!
+### Invited Speakers and Panelists
+We have an exciting lineup of speakers and panelists.
 
 {% include speakers.liquid center=true %}
 
