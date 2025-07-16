@@ -1,0 +1,49 @@
+Submission ID,Authors,Title,Decision,Archival
+47,Filippos Ventirozos; Peter A. Appleby; Matthew Shardlow,Are You Sure You’re Positive? Consolidating Chain-of-Thought Agents with Uncertainty Quantification for Aspect-Category Sentiment Analysis,Poster,Yes
+32,Ashish Pandian; Nelson Lojo; Wei Xun Lai; Jackson Lukas,Snap Out of It: A Dual-Process Approach to Mitigating Overthinking in Language Model Reasoning,Poster,Yes
+15,Jesse Roberts; Kyle Moore; Douglas Fisher,Do Large Language Models Learn Human-Like Strategic Preferences?,Spotlight,Yes
+29,Gregory Polyakov; Ilseyar Alimova; Dmitry Abulkhanov; Ivan Sedykh; Andrey Bout; Sergey Nikolenko; Irina Piontkovskaya,ToolReflection: Improving Large Language Models for Real-World API Calls with Self-Generated Data,Poster,Yes
+35,Qingqing Gu; Dan Wang; Yue Zhao; Xiaoyu Wang; Zhonglin Jiang; Yong Chen; Luo Ji,Chain-of-Conceptual-Thought Elicits Daily Conversation in Large Language Models,Poster,No
+21,Saab Mansour; Leonardo Perelli; Lorenzo Mainetti; George Davidson; Stefano D'Amato,PAARS: Persona Aligned Agentic Retail Shoppers,Poster,Yes
+18,Garry A. Gabison; R. Patrick Xian,Inherent and emergent liability issues in LLM-based agentic systems: a principal-agent perspective,Poster,Yes
+33,Sai Surya Gadiraju; Duoduo Liao; Zijie He,A Conversational Agent Framework for Multimodal Knowledge Retrieval: A Case Study in FHWA InfoHighway Web Portal Queries,Poster,Yes
+34,Karthikeyan K; Michelle Yuan; Elman Mansimov; Katerina Margatina; Anurag Pratik; Daniele Bonadiman; MONICA SUNKARA; Yi Zhang; Yassine Benajiba,A Study on Leveraging Search and Self-Feedback for Agent Reasoning,Spotlight,Yes
+52,Liangliang Chen; Yongzhen Mu,Bridging the Digital Divide: Empowering Elderly Smartphone Users with Intelligent and Human-Centered Design in Agemate,Poster,Yes
+27,Yixiao Song; Katherine Thai; Chau Minh Pham; Yapei Chang; Mazin Nadaf; Mohit Iyyer,BEARCUBS: A benchmark for computer-using web agents,Spotlight,No
+26,Devansh Srivastav; Xiao Zhang,"Safe in Isolation, Dangerous Together: Agent-Driven Multi-Turn Decomposition Jailbreaks on LLMs",Oral,Yes
+67,Micah Rentschler; Jesse Roberts,RL + Transformer = A General-Purpose Problem Solver,Poster,Yes
+39,Tobias Lindenbauer; Egor Bogomolov; Yaroslav Zharov,GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git,Spotlight,Yes
+13,Bin Li; Jannis Conen; Felix Aller,AID-Agent: An LLM-Agent for Advanced Extraction and Integration of Documents,Poster,Yes
+6,Yicheng Fu; Raviteja Anantha; Jianpeng Cheng,CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device,Oral,Yes
+22,Kemal Kirtac; Guido Germano,Leveraging LLM-based sentiment analysis for portfolio optimization with proximal policy optimization,Poster,Yes
+30,Youmna Farag; Svetlana Stoyanchev; Mohan Li; Simon Keizer; Rama Doddipatla,Conditional Multi-Stage Failure Recovery for Embodied Agents,Poster,Yes
+54,Sajjad Ghiasvand; Mahnoosh Alizadeh; Ramtin Pedarsani,Decentralized Low-Rank Fine-Tuning of Large Language Models,Poster,Yes
+11,Ruibin Xiong; Yimeng Chen; Dmitrii Khizbullin; Mingchen Zhuge; Jürgen Schmidhuber,WriteHERE: Adaptive Long-form Writing via Heterogeneous Recursive Planning with Language Models,Poster,No
+9,Kamer Ali Yuksel; Thiago Castro Ferreira; Mohamed Al-Badrashiny; Hassan Sawaf,A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops,Poster,Yes
+24,Isadora White; Kolby Nottingham; Ayush Parasbhai Maniar; Max Robinson; Mehul Maheshwari; Hansen Lillemark; Lianhui Qin; Prithviraj Ammanabrolu,Collaborating Action by Action:  A Multi-agent LLM Framework for Embodied Reasoning,Poster,No
+69,Tobias Lindenbauer; Georg Groh; Hinrich Schuetze,From Knowledge to Noise: CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents,Poster,Yes
+14,Anirudh Sundar; Christopher Gordon Richardson; William Gay; Benjamin Reichman; Larry Heck,Hidden Forms: A Dataset to Fill Masked Interfaces from Language Commands,Poster,Yes
+66,Nearchos Potamitis; Lars Henning Klein; Roland Aydin; Robert West; Caglar Gulcehre; Akhil Arora,Fleet of Agents: Coordinated Problem Solving with Large Language Models,Spotlight,No
+56,Henry Hengyuan Zhao; Kaiming Yang; Wendi Yu; Difei Gao; Mike Zheng Shou,WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point,Poster,No
+38,Siyuan Wang; Enda Zhao; zhongyu wei; Xiang Ren,Stepwise Informativeness Search for Improving LLM Reasoning,Poster,No
+19,Philip Lippmann; Matthijs T. J. Spaan; Jie Yang,Positive Experience Reflection for Agents in Interactive Text Environments,Poster,Yes
+16,Gautam Jajoo; Pranjal A Chitale; Saksham Aggarwal,MASCA: LLM based-Multi Agents System for Credit Assessment,Poster,No
+74,Saif Punjwani; Larry Heck,Weight-of-Thought Reasoning: Exploring Neural Network Weights for Enhanced LLM Reasoning,Poster,Yes
+62,Christopher Zhang Cui; Xingdi Yuan; Ziang Xiao; Prithviraj Ammanabrolu; Marc-Alexandre Côté,TALES- Text Adventure Learning Environment Suite,Oral,No
+58,Nikolai Rozanov; Marek Rei,StateAct: Enhancing LLM Base Agents via Self-prompting and State-tracking,Poster,Yes
+4,Wanyu Du; Song Feng; James Gung; Lijia Sun; Yi Zhang; Saab Mansour; Yanjun Qi,DFLOW: Diverse Dialogue Flow Simulation with Large Language Models,Poster,Yes
+1,Jan Hofmann; Cornelia Sindermann; Roman Klinger,Prompt-based Personality Profiling: Reinforcement Learning for Relevance Filtering,Poster,Yes
+49,David Guzman Piedrahita; Yongjin Yang; Mrinmaya Sachan; Giorgia Ramponi; Bernhard Schölkopf; Zhijing Jin,Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games,Oral,No
+41,Ze Chen; Chengcheng Wei; Jiewen Zheng; Jiarong He,TCQA$^2$: A Tiered Conversational Q&A Agent in Gaming,Poster,Yes
+42,Ohav Barbi; Ori Yoran; Mor Geva,Preventing Rogue Agents Improves Multi-Agent Collaboration,Spotlight,Yes
+46,Chris Schmitz; Jonathan Rystrøm; Jan Batzner,Oversight Structures for Agentic AI in Public-Sector Organizations,Poster,Yes
+40,Xiangwen Deng; Shenao Jiang; Yufeng Wang; FEICE HUANG; Jiawei Zhou; Peng Jiao; Yong Ge; Haoqian Wang,MMA-RAG: A Novel Modular RAG Framework With LLM-based Multi-agents Reinforcement Learning,Poster,No
+61,Jeonghun Kang; Soonmok Kwon; Joonseok Lee; Byung-Hak Kim,DIAMOND: An LLM-Driven Agent for Context-Aware Baseball Highlight Summarization,Poster,Yes
+59,Amirhossein Abaskohi; Amrutha Varshini Ramesh; Shailesh Nanisetty; Chirag Goel; David Vazquez; Christopher Pal; Spandana Gella; Giuseppe Carenini; Issam H. Laradji,AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery,Oral,No
+55,R. Patrick Xian; Qiming Cui; Stefan Bauer; Reza Abbasi-Asl,Measuring temporal effects of agent knowledge by date-controlled tool use,Poster,Yes
+73,Meiru Zhang; Auss Abbood; Zaiqiao Meng; Nigel Collier,The Power of Simplicity in LLM-Based Event Forecasting,Poster,Yes
+10,Yunnan Wu; Qile P. Chen; Deshank Baranwal; Jinlong Zhou; Jian Yuan,The Art of Tool Interface Design,Poster,Yes
+71,Matthew Li; Santiago Torres-Garcia; Shayan Halder; Phani Kuppa; Sean O'Brien; Vasu Sharma; Kevin Zhu; Sunishchal Dev,FrontierScience Bench: Evaluating AI Research Capabilities in LLMs,Poster,Yes
+7,Xunjian Yin; Xinyi Wang; Liangming Pan; Li Lin; Xiaojun Wan; William Yang Wang,Gödel Agent: A Self-Referential Agent Framework for Recursively Self-Improvement,Poster,No
+63,Lajanugen Logeswaran; Jaekyeom Kim; Sungryull Sohn; Creighton Glasscock; Honglak Lee,Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation,Poster,No
+57,Hiroaki Sugiyama; Ko Koga; Toshifumi Nishijima,VisTRA: Visual Tool-use Reasoning Analyzer for Small Object Visual Question Answering,Poster,Yes
