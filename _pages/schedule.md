@@ -41,7 +41,7 @@ nav_order: 3
 <span style="margin-left:1.5em;"><strong>David Guzman Piedrahita:</strong> <em>Cooperation's Price: Do Multi-Agent LLMs Adopt Sanctions to Promote the Greater Good?</em></span><br>
 <span style="margin-left:1.5em;"><strong>Yicheng Fu:</strong> <em>CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device</em></span><br>
 <span style="margin-left:1.5em;"><strong>Christopher Cui:</strong> <em>TALES- Text Adventure Learning Environment Suite</em></span><br>
-<span style="margin-left:1.5em;"><strong>Amirhossein Abaskohi:</strong> <em>AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery</em></span><br>
+<span style="margin-left:1.5em;"><strong>Amrutha Varshini:</strong> <em>AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery</em></span><br>
 <span style="margin-left:1.5em;"><strong>Devansh Srivastav:</strong> <em>Safe in Isolation, Dangerous Together: Agent-Driven Multi-Turn Decomposition Jailbreaks on LLMs</em></span></td>
 </tr>
 <tr style="background-color: #e9ecef;">
