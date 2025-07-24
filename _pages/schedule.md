@@ -33,7 +33,7 @@ nav_order: 4
 </tr>
 <tr>
 <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;">09:30 - 10:00</td>
-<td class="py-2 px-2">Invited Talk 2: <strong>Siva Reddy</strong></td>
+<td class="py-2 px-2">Invited Talk 2: <strong>Siva Reddy</strong><br><em>The Path to Scalable and Safe Web Agents</em></td>
 </tr>
 <tr>
 <td class="py-2 px-2" style="vertical-align: top; white-space: nowrap; min-width: 110px;">10:00 - 10:30</td>
