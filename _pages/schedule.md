@@ -70,7 +70,7 @@ nav_order: 4
 </tr>
 <tr>
 <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;">14:30 - 15:00</td>
-<td class="py-2 px-2">Invited Talk 7: <strong>Daniel Fried</strong></td>
+<td class="py-2 px-2">Invited Talk 7: <strong>Daniel Fried</strong><br><em>Inducing Functions to Improve LLM Agents</em></td>
 </tr>
 <tr style="background-color: #e9ecef;">
 <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;"><strong>15:00 - 16:00</strong></td>
