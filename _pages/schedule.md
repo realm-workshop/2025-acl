@@ -78,7 +78,7 @@ nav_order: 4
 </tr>
 <tr>
 <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;">16:00 - 17:00</td>
-<td class="py-2 px-2">Panel Discussion:<br><strong>Nicolas Chapados, Chris Manning, Roberta Raileanu, Diyi Yang, and Tao Yu</strong></td>
+<td class="py-2 px-2">Panel Discussion:<br><strong>Nicolas Chapados, Roberta Raileanu, Diyi Yang</strong></td>
 </tr>
 <tr>
 <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;">17:00 - 17:15</td>
