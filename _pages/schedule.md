@@ -39,10 +39,10 @@ nav_order: 4
 <td class="py-2 px-2" style="vertical-align: top; white-space: nowrap; min-width: 110px;">10:00 - 10:30</td>
 <td class="py-2 px-2">Oral presentations (5 min each) + 5 min buffer<br>
 <span style="margin-left:1.5em;"><strong>David Guzman Piedrahita:</strong> <em>Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games</em></span><br>
-<span style="margin-left:1.5em;"><strong>Devansh Srivastav:</strong> <em>Safe in Isolation, Dangerous Together: Agent-Driven Multi-Turn Decomposition Jailbreaks on LLMs</em></span></td><br>
+<span style="margin-left:1.5em;"><strong>Devansh Srivastav:</strong> <em>Safe in Isolation, Dangerous Together: Agent-Driven Multi-Turn Decomposition Jailbreaks on LLMs</em></span><br>
 <span style="margin-left:1.5em;"><strong>Christopher Cui:</strong> <em>TALES- Text Adventure Learning Environment Suite</em></span><br>
 <span style="margin-left:1.5em;"><strong>Amrutha Varshini:</strong> <em>AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery</em></span><br>
-<span style="margin-left:1.5em;"><strong>Yicheng Fu:</strong> <em>CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device</em></span>
+<span style="margin-left:1.5em;"><strong>Yicheng Fu:</strong> <em>CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device</em></span></td>
 </tr>
 <tr style="background-color: #e9ecef;">
 <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;"><strong>10:30 - 11:30</strong></td>
