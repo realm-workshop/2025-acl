@@ -50,11 +50,11 @@ nav_order: 4
 </tr>
 <tr>
 <td class="py-2 px-2" style="vertical-align: top; white-space: nowrap; min-width: 110px;">11:30 - 12:00</td>
-<td class="py-2 px-2">Invited Talk 3: <strong>Roberta Raileanu</strong><br><em>Automating Scientific Discovery: How Far Are We?</em></td>
+<td class="py-2 px-2">Invited Talk 3: <strong>Roberta Raileanu</strong><br><em>Automating AI Research: How Far Are We?</em></td>
 </tr>
 <tr>
 <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;">12:00 - 12:30</td>
-<td class="py-2 px-2">Invited Talk 4: <strong>Chris Manning</strong></td>
+<td class="py-2 px-2">Invited Talk 4: <strong>Chris Manning</strong><br><em>Linguistic Agents that Learn from Interactions</em></td>
 </tr>
 <tr style="background-color: #e9ecef;">
 <td class="py-2 px-2" style="white-space: nowrap; min-width: 110px;"><strong>12:30 - 13:30</strong></td>
