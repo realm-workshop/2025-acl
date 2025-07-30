@@ -41,7 +41,7 @@ nav_order: 4
 <span style="margin-left:1.5em;"><strong>David Guzman Piedrahita:</strong> <em>Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games</em></span><br>
 <span style="margin-left:1.5em;"><strong>Devansh Srivastav:</strong> <em>Safe in Isolation, Dangerous Together: Agent-Driven Multi-Turn Decomposition Jailbreaks on LLMs</em></span><br>
 <span style="margin-left:1.5em;"><strong>Christopher Cui:</strong> <em>TALES- Text Adventure Learning Environment Suite</em></span><br>
-<span style="margin-left:1.5em;"><strong>Amrutha Varshini:</strong> <em>AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery</em></span><br>
+<span style="margin-left:1.5em;"><strong>Amrutha Varshini Ramesh:</strong> <em>AgentAda: Skill-Adaptive Data Analytics for Tailored Insight Discovery</em></span><br>
 <span style="margin-left:1.5em;"><strong>Yicheng Fu:</strong> <em>CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device</em></span></td>
 </tr>
 <tr style="background-color: #e9ecef;">
