@@ -7,35 +7,35 @@ ninja.data = [{
     title: "Home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/2025-acl/";
     },
   },{id: "nav-call-for-papers",
           title: "Call For Papers",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/call_for_papers/";
+            window.location.href = "/2025-acl/call_for_papers/";
           },
         },{id: "nav-accepted-papers",
           title: "Accepted Papers",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/accepted_papers/";
+            window.location.href = "/2025-acl/accepted_papers/";
           },
         },{id: "nav-schedule",
           title: "Schedule",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/schedule/";
+            window.location.href = "/2025-acl/schedule/";
           },
         },{id: "nav-recording",
           title: "Recording",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/recording/";
+            window.location.href = "/2025-acl/recording/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
@@ -66,7 +66,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/2025-acl/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -89,7 +89,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("/2025-acl/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
